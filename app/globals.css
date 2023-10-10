@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -24,4 +24,45 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+} */
+
+@layer components {
+  /* general layout */
+  .main-container {
+    @apply flex flex-col items-center justify-between w-full my-12 py-12 ;
+  }
+
+  @font-face {
+    font-family: "San Marino Beach";
+    src: url("../fonts/San Marino Beach.otf");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  /* h1 text */
+  .head-text {
+    @apply text-xl md:text-5xl text-[#BE4343] font-san-marino;
+  }
+
+  /* h2 text */
+  .subhead-text {
+    @apply text-xl md:text-2xl  font-san-marino;
+  }
+
+  .custom-font {
+    font-family: "San Marino Beach", sans-serif;
+  }
+  /* paragraph text */
+  .p-text {
+    @apply  text-[#242757];
+  }
+
+  .brand-color {
+    @apply  bg-[#BE4343];
+  }
+  .brand-text-color {
+    @apply  text-[#BE4343] font-medium;
+  }
+
+
 }
