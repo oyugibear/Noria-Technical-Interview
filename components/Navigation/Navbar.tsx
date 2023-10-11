@@ -1,6 +1,5 @@
 import Image from 'next/image'
 import React from 'react'
-import {  } from 'next/font/google'
 import Link from 'next/link'
 
 export default function Navbar() {

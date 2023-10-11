@@ -1,0 +1,157 @@
+{
+    "images":[
+        {
+            "id": 1,
+            "name": "HeroImg",
+            "src": "/assets/Home/Hero/ALT_Home.png",
+            "alt": "Hero Image Picture"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Liam Evans",
+            "age": 28,
+            "gender": "male",
+            "interests": ["Travel", "Technology", "Photography"],
+            "phone": "+1 654-321-0987",
+            "email": "liam@example.com",
+            "avatar": "https://example.com/avatar26.jpg",
+            "description": "I'm passionate about exploring new places, gadgets, and capturing moments through my lens.",
+            "career": "Software Engineer"
+        },
+        {
+            "id": 2,
+            "name": "Sophia Foster",
+            "age": 29,
+            "gender": "female",
+            "interests": ["Cooking", "Fashion", "Movies"],
+            "phone": "+1 543-210-9876",
+            "email": "sophia@example.com",
+            "avatar": "https://example.com/avatar27.jpg",
+            "description": "Food enthusiast, fashion lover, and movie buff. I enjoy experimenting in the kitchen and staying trendy.",
+            "career": "Chef and Fashion Blogger"
+        },
+        {
+            "id": 3,
+            "name": "Noah Garcia",
+            "age": 30,
+            "gender": "male",
+            "interests": ["Music", "Gaming", "Travel"],
+            "phone": "+1 432-109-8765",
+            "email": "noah@example.com",
+            "avatar": "https://example.com/avatar28.jpg",
+            "description": "Gamer by heart, music lover, and a travel enthusiast. I find joy in exploring new game worlds and cultures.",
+            "career": "Game Developer"
+        },
+        {
+            "id": 4,
+            "name": "Emma Hill",
+            "age": 31,
+            "gender": "female",
+            "interests": ["Reading", "Art", "Sports"],
+            "phone": "+1 321-098-7654",
+            "email": "emma@example.com",
+            "avatar": "https://example.com/avatar29.jpg",
+            "description": "Bookworm, art appreciator, and sports enthusiast. I find peace in the pages of a good book and the strokes of a paintbrush.",
+            "career": "Artist and Writer"
+        },
+        {
+            "id": 5,
+            "name": "Liam Ingram",
+            "age": 32,
+            "gender": "male",
+            "interests": ["Travel", "Fitness", "Movies"],
+            "phone": "+1 210-987-6543",
+            "email": "liam@example.com",
+            "avatar": "https://example.com/avatar30.jpg",
+            "description": "Fitness freak, movie buff, and wanderlust-driven traveler. I enjoy staying active and exploring diverse movie genres.",
+            "career": "Fitness Trainer and Movie Critic"
+        },
+        {
+            "id": 6,
+            "name": "Ava Jenkins",
+            "age": 33,
+            "gender": "female",
+            "interests": ["Music", "Dancing", "Cooking"],
+            "phone": "+1 109-876-5432",
+            "email": "ava@example.com",
+            "avatar": "https://example.com/avatar31.jpg",
+            "description": "Music lover, dancing queen, and culinary artist. I express myself through melodies, dance moves, and delightful recipes.",
+            "career": "Professional Dancer and Chef"
+        },
+        {
+            "id": 7,
+            "name": "Noah King",
+            "age": 34,
+            "gender": "male",
+            "interests": ["Gaming", "Technology", "Travel"],
+            "phone": "+1 098-765-4321",
+            "email": "noah@example.com",
+            "avatar": "https://example.com/avatar32.jpg",
+            "description": "Tech geek, avid gamer, and travel enthusiast. I immerse myself in the virtual world and real-world adventures.",
+            "career": "IT Specialist and Travel Blogger"
+        },
+        {
+            "id": 8,
+            "name": "Olivia Lane",
+            "age": 35,
+            "gender": "female",
+            "interests": ["Reading", "Art", "Movies"],
+            "phone": "+1 987-654-3210",
+            "email": "olivia@example.com",
+            "avatar": "https://example.com/avatar33.jpg",
+            "description": "Book lover, art enthusiast, and movie critic. I find beauty in words, colors, and cinematic experiences.",
+            "career": "Librarian and Film Critic"
+        },
+        {
+            "id": 9,
+            "name": "Liam Martinez",
+            "age": 36,
+            "gender": "male",
+            "interests": ["Travel", "Food", "Photography"],
+            "phone": "+1 876-543-2109",
+            "email": "liam@example.com",
+            "avatar": "https://example.com/avatar34.jpg",
+            "description": "Foodie, travel explorer, and photography enthusiast. I capture flavors, moments, and cultures through my lens.",
+            "career": "Food Photographer and Blogger"
+        },
+        {
+            "id": 10,
+            "name": "Emma Nelson",
+            "age": 37,
+            "gender": "female",
+            "interests": ["Music", "Sports", "Travel"],
+            "phone": "+1 765-432-1098",
+            "email": "emma@example.com",
+            "avatar": "https://example.com/avatar35.jpg",
+            "description": "Music enthusiast, sports lover, and travel aficionado. I find joy in melodies, physical activities, and global explorations.",
+            "career": "Travel Journalist"
+        },
+        {
+            "id": 11,
+            "name": "Oliver Olson",
+            "age": 38,
+            "gender": "male",
+            "interests": ["Gaming", "Technology", "Movies"],
+            "phone": "+1 654-321-0987",
+            "email": "oliver@example.com",
+            "avatar": "https://example.com/avatar36.jpg",
+            "description": "Gamer, tech enthusiast, and movie buff. I delve into virtual worlds, cutting-edge tech, and cinematic universes.",
+            "career": "Game Developer and Tech Blogger"
+        },
+        {
+            "id": 12,
+            "name": "Ava Parker",
+            "age": 39,
+            "gender": "female",
+            "interests": ["Reading", "Art", "Travel"],
+            "phone": "+1 543-210-9876",
+            "email": "ava@example.com",
+            "avatar": "https://example.com/avatar37.jpg",
+            "description": "Bookworm, art appreciator, and travel lover. I escape into literature, admire creative expressions, and wanderlust in beautiful destinations.",
+            "career": "Travel Writer and Artist"
+        }
+    ]
+    
+}
