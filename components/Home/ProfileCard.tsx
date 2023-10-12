@@ -24,7 +24,7 @@ export default function ProfileCard({user} : ProfileCardProps) {
   return (
     <div className='flex flex-col max-w-[288px] w-full bg-white rounded-2xl'>
         <Link href={`/profiles/${user.id}`}>
-            <Image src='/assets/Profiles/Man.png' width={288} height={205} alt='Dating Profile Pic' className='rounded-t-2xl max-h-[205px]' />
+            <Image src={user?.avatar || "/assets/Profiles/incase.jpg"}width={288} height={205} alt='Dating Profile Pic' className='rounded-t-2xl max-h-[205px] h-full' />
             <div className='flex flex-col p-4 p-text pb-4'>
                 <p className=' my-2 text-xl font-medium'>{user.name}</p>
                 <div className=' flex flex-row justify-between '>
