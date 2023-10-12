@@ -16,7 +16,7 @@
             "interests": ["Travel", "Technology", "Photography"],
             "phone": "+1 654-321-0987",
             "email": "liam@example.com",
-            "avatar": "https://example.com/avatar26.jpg",
+            "avatar": "https://images.unsplash.com/photo-1589156280159-27698a70f29e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBwZW9wbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
             "description": "I'm passionate about exploring new places, gadgets, and capturing moments through my lens.",
             "career": "Software Engineer"
         },
@@ -28,7 +28,7 @@
             "interests": ["Cooking", "Fashion", "Movies"],
             "phone": "+1 543-210-9876",
             "email": "sophia@example.com",
-            "avatar": "https://example.com/avatar27.jpg",
+            "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGVvcGxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "description": "Food enthusiast, fashion lover, and movie buff. I enjoy experimenting in the kitchen and staying trendy.",
             "career": "Chef and Fashion Blogger"
         },
@@ -40,7 +40,7 @@
             "interests": ["Music", "Gaming", "Travel"],
             "phone": "+1 432-109-8765",
             "email": "noah@example.com",
-            "avatar": "https://example.com/avatar28.jpg",
+            "avatar": "https://images.unsplash.com/photo-1488161628813-04466f872be2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "description": "Gamer by heart, music lover, and a travel enthusiast. I find joy in exploring new game worlds and cultures.",
             "career": "Game Developer"
         },
@@ -52,7 +52,7 @@
             "interests": ["Reading", "Art", "Sports"],
             "phone": "+1 321-098-7654",
             "email": "emma@example.com",
-            "avatar": "https://example.com/avatar29.jpg",
+            "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "description": "Bookworm, art appreciator, and sports enthusiast. I find peace in the pages of a good book and the strokes of a paintbrush.",
             "career": "Artist and Writer"
         },
@@ -64,7 +64,7 @@
             "interests": ["Travel", "Fitness", "Movies"],
             "phone": "+1 210-987-6543",
             "email": "liam@example.com",
-            "avatar": "https://example.com/avatar30.jpg",
+            "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cGVvcGxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "description": "Fitness freak, movie buff, and wanderlust-driven traveler. I enjoy staying active and exploring diverse movie genres.",
             "career": "Fitness Trainer and Movie Critic"
         },
@@ -76,7 +76,7 @@
             "interests": ["Music", "Dancing", "Cooking"],
             "phone": "+1 109-876-5432",
             "email": "ava@example.com",
-            "avatar": "https://example.com/avatar31.jpg",
+            "avatar": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "description": "Music lover, dancing queen, and culinary artist. I express myself through melodies, dance moves, and delightful recipes.",
             "career": "Professional Dancer and Chef"
         },
@@ -88,7 +88,7 @@
             "interests": ["Gaming", "Technology", "Travel"],
             "phone": "+1 098-765-4321",
             "email": "noah@example.com",
-            "avatar": "https://example.com/avatar32.jpg",
+            "avatar": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "description": "Tech geek, avid gamer, and travel enthusiast. I immerse myself in the virtual world and real-world adventures.",
             "career": "IT Specialist and Travel Blogger"
         },
@@ -100,7 +100,7 @@
             "interests": ["Reading", "Art", "Movies"],
             "phone": "+1 987-654-3210",
             "email": "olivia@example.com",
-            "avatar": "https://example.com/avatar33.jpg",
+            "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "description": "Book lover, art enthusiast, and movie critic. I find beauty in words, colors, and cinematic experiences.",
             "career": "Librarian and Film Critic"
         },
@@ -112,7 +112,7 @@
             "interests": ["Travel", "Food", "Photography"],
             "phone": "+1 876-543-2109",
             "email": "liam@example.com",
-            "avatar": "https://example.com/avatar34.jpg",
+            "avatar": "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "description": "Foodie, travel explorer, and photography enthusiast. I capture flavors, moments, and cultures through my lens.",
             "career": "Food Photographer and Blogger"
         },
@@ -124,7 +124,7 @@
             "interests": ["Music", "Sports", "Travel"],
             "phone": "+1 765-432-1098",
             "email": "emma@example.com",
-            "avatar": "https://example.com/avatar35.jpg",
+            "avatar": "https://images.unsplash.com/photo-1523824921871-d6f1a15151f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBwZXJzb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
             "description": "Music enthusiast, sports lover, and travel aficionado. I find joy in melodies, physical activities, and global explorations.",
             "career": "Travel Journalist"
         },
@@ -136,7 +136,7 @@
             "interests": ["Gaming", "Technology", "Movies"],
             "phone": "+1 654-321-0987",
             "email": "oliver@example.com",
-            "avatar": "https://example.com/avatar36.jpg",
+            "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "description": "Gamer, tech enthusiast, and movie buff. I delve into virtual worlds, cutting-edge tech, and cinematic universes.",
             "career": "Game Developer and Tech Blogger"
         },
@@ -148,7 +148,7 @@
             "interests": ["Reading", "Art", "Travel"],
             "phone": "+1 543-210-9876",
             "email": "ava@example.com",
-            "avatar": "https://example.com/avatar37.jpg",
+            "avatar": "https://images.unsplash.com/photo-1537511446984-935f663eb1f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "description": "Bookworm, art appreciator, and travel lover. I escape into literature, admire creative expressions, and wanderlust in beautiful destinations.",
             "career": "Travel Writer and Artist"
         }

@@ -16,7 +16,7 @@ interface User {
   email: string;
   description: string;
   career: string;
-  avatar: string;
+  avatar: string ;
 }
 
 interface PageProps {
@@ -63,8 +63,8 @@ export default function page({params} : PageProps ) {
 
   return (
     <div className='flex flex-col w-full items-center justify-center  p-text'>
-      <div className='max-w-[1042px] my-12 py-12 gap-6 w-full flex flex-col md:flex-row items-center justify-center px-4'>
-        <Image src='/assets/Profiles/Man.png' width={526} height={411} alt="Profile Image" className=' max-h-[411px] rounded-md' />
+      <div className='max-w-[1100px] my-12 py-12 gap-6 w-full flex flex-col md:flex-row items-center justify-center px-4'>
+        <Image src={user?.avatar || "/assets/Profiles/incase.jpg"} width={526} height={411} alt="Profile Image" className=' max-h-[411px] h-full object-cover rounded-md' />
         <div className='flex flex-col items-center md:items-start justify-center gap-4 '>
           <h1 className='head-text my-4'>{user?.name}</h1>
           <div className='flex flex-wrap gap-4 justify-evenly'>
@@ -89,7 +89,7 @@ export default function page({params} : PageProps ) {
               ))}
             </div>
           </div>
-          <div className='mt-4 flex flex-col text-center md:text-start md:items-start'>
+          <div className='flex flex-col text-center md:text-start md:items-start'>
             <p className='brand-text-color'>Description:</p>
             <p className='max-w-[600px]'>
               {user?.description}
